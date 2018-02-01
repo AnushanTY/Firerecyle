@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "339120495747",
+    "firebase_url": "https://recyleview-70f43.firebaseio.com",
+    "project_id": "recyleview-70f43",
+    "storage_bucket": "recyleview-70f43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339120495747:android:a2a5529be8c92fd5",
+        "android_client_info": {
+          "package_name": "com.example.anushan.firerecyle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339120495747-idu4v4mmblte7ruoj1gddkpp4i3pppns.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD84XKLKTaQgcwyxao5CCPsRnTs507jNcM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
